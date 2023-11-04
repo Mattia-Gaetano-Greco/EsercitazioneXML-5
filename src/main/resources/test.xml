@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alberghi>
+    <albergo id="1">
+        <comune>"DUINO-AURISINA"</comune>
+        <provincia>"TRIESTE"</provincia>
+        <stelle>"1 Stella *"</stelle>
+        <denominazione>"DAMA BIANCA"</denominazione>
+    </albergo>
+
+    <albergo id="2">
+        <comune>"MUGGIA"</comune>
+        <provincia>"TRIESTE"</provincia>
+        <stelle>"4 Stelle ****"</stelle>
+        <denominazione>"HOTEL SAN ROCCO"</denominazione>
+    </albergo>
+
+    <albergo id="3">
+        <comune>"TRIESTE"</comune>
+        <provincia>"TRIESTE"</provincia>
+        <stelle>"5 Stelle *****"</stelle>
+        <denominazione>"HOTEL GREIF MARIA THERESIA"</denominazione>
+    </albergo>
+
+    <albergo id="4">
+        <comune>"DUINO-AURISINA"</comune>
+        <provincia>"TRIESTE"</provincia>
+        <stelle>"5 Stelle lusso *****"</stelle>
+        <denominazione>"HOTEL FALISIA, A LUXURY COLLECTION RESORT &amp; SPA"</denominazione>
+    </albergo>
+</alberghi>
